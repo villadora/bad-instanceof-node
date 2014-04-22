@@ -10,5 +10,5 @@ node/npm provides a powerfull dependencies management system, but that make the 
 
 So if you use instanceof to check objects that not provide by node, there will be a great chance that some thing wrong after the package get updated.
 
-Strict equals are the same.
+Equal or Strict equal are the same.
 
